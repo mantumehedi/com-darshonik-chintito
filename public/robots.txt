@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://chintito.darshonik.com/sitemap.xml
